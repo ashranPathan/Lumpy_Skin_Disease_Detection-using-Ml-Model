@@ -1,0 +1,1 @@
+# Lumpy_Skin_Disease_Detection-using-Ml-Model
